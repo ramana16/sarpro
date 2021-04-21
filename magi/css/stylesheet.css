@@ -1,0 +1,165 @@
+/* CSS Document */
+
+body {
+	background-image:url(../images/bg.png);
+	background-repeat:no-repeat;
+	
+}
+.container{
+	width:980px;
+	height:800px;
+	margin:0 auto;
+		
+}
+
+.contact{
+	width:300px;
+	height:50px;
+	margin-top:20px;
+	font-family: 'Lato', sans-serif;
+	color:#FFFFFF;
+	letter-spacing:1px;
+
+}
+
+.social{
+	width:170px;
+	height:50px;
+	float:right;
+	margin-top:-60px;
+}
+
+
+.logo{
+	width:230px;
+	height:194px;
+	padding-left:350px;
+	margin-top:-22px;
+	
+}
+
+.container1{
+	width:980px;
+	height:482px;
+	margin:0 auto;
+	background-color: #8f3f91;
+			
+}
+
+.navigation{
+	width:956px;
+	height:59px;
+	margin-left:27px;
+	
+			
+}
+
+.shadow{
+	width:956px;
+	height:20px;
+		
+}
+
+
+.banner{
+	width:981px;
+	height:422px;
+				
+}
+
+
+.container2{
+	width:979px;
+	height:350px;
+	margin:0 auto;
+	background-color: #333333;
+			
+}
+
+.welcome{
+	width:978px;
+	height:35px;
+	margin:0 auto;
+	background-color: #333333;		
+}
+
+
+.text{
+	width:870px;
+	height:70px;
+	margin:0 auto;
+	text-align:justify;
+	padding-top:10px;
+	color:#FFFFFF;
+	letter-spacing:1px;
+	font-family: 'Lato', sans-serif;
+	font-size:14px;
+}
+
+.sub-banner{
+	width:979px;
+	height:150px;
+	margin-top:40px;
+	background-color: #8f3f91;
+			
+}
+
+
+.footer {
+
+	width:980px;
+	height: 59px;
+	background-image:url(../images/footer.png);
+	margin-left:auto;
+	margin-right:auto;
+	float:left;
+} 
+
+.footer-left{
+	width:450px;
+	height:40px;
+	line-height:40px;
+	float:left;
+	font-size:11px;
+	font-family: 'Lato', sans-serif;
+	color:#FFFFFF;
+	padding-left:10px;
+	text-align: left;
+}
+
+
+.footer-right{
+	width:450px;
+	height:40px;
+	line-height:40px;
+	font-size:11px;
+	font-family: 'Lato', sans-serif;
+	float:right;
+	color:#FFFFFF;
+	padding-right:10px;
+	text-align: right;
+} 
+
+
+.maq{
+	width:979px;
+	height:50px;
+	margin-top:-70px;
+	font-family: 'Lato', sans-serif;
+	font-size:13px;
+	color:#79027c;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
